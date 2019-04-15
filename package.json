@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EnergeticPixels/toddlerFarmAnimalsGame.git"
+    "url": "git+https://github.com/EnergeticPixels/VirtualPet.gi"
   },
   "bugs": {
-    "url": "https://github.com/EnergeticPixels/toddlerFarmAnimalsGame/issues"
+    "url": "https://github.com/EnergeticPixels/VirtualPet/issues"
   },
-  "homepage": "https://github.com/EnergeticPixels/toddlerFarmAnimalsGame#readme",
+  "homepage": "https://github.com/EnergeticPixels/VirtualPete#readme",
   "keywords": [
     "phaser",
     "toddler",
