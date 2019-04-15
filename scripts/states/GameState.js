@@ -1,17 +1,6 @@
 // this game will only have one state
 var GameState = {
 
-  // load the game assets before the game starts
-  preload: function() {
-    this.load.image('backyard', '../images/backyard.png');
-    this.load.image('apple', '../images/apple.png');
-    this.load.image('candy', '../images/candy.png');
-    this.load.image('rotate', '../images/rotate.png');
-    this.load.image('toy', '../images/rubber_duck.png');
-    this.load.image('arrow', '../images/arrow.png');
-    this.load.spritesheet('pet', '../images/pet.png', 97, 83, 5, 1, 1);
-  },
-
   // execute after everything is loaded
   create: function() {
     this.background = this.game.add.sprite(0, 0, 'backyard');
