@@ -151,7 +151,9 @@ var GameState = {
   },
 
   gameOver: function() {
-    this.game.state.restart();
+    //this.game.state.restart();
+    // if we want a different game over state, just pass it another state (hint: xAPI)
+    this.state.start('HomeState', true, false, 'GAMEOVER!');
   },
 
   update: function() {
