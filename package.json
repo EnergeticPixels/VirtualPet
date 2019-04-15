@@ -1,0 +1,28 @@
+{
+  "name": "toddlersfarmanimals",
+  "version": "0.5.0",
+  "description": "Simple game made with Phaser game engine. Targeted at small children.",
+  "private": true,
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnergeticPixels/toddlerFarmAnimalsGame.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EnergeticPixels/toddlerFarmAnimalsGame/issues"
+  },
+  "homepage": "https://github.com/EnergeticPixels/toddlerFarmAnimalsGame#readme",
+  "keywords": [
+    "phaser",
+    "toddler",
+    "animal",
+    "farm",
+    "simple",
+    "game"
+  ],
+  "author": "Anthony Jackman <energeticpixels@gmail.com>",
+  "license": "BSD-3-Clause"
+}
