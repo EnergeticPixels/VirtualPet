@@ -9,13 +9,13 @@ var PreloadState = {
     this.preloadBar.anchor.setTo(0.5);
     this.load.setPreloadSprite(this.preloadBar);
 
-    this.load.image('backyard', '../images/backyard.png');
-    this.load.image('apple', '../images/apple.png');
-    this.load.image('candy', '../images/candy.png');
-    this.load.image('rotate', '../images/rotate.png');
-    this.load.image('toy', '../images/rubber_duck.png');
-    this.load.image('arrow', '../images/arrow.png');
-    this.load.spritesheet('pet', '../images/pet.png', 97, 83, 5, 1, 1);
+    this.load.image('backyard', '../../images/backyard.png');
+    this.load.image('apple', '../../images/apple.png');
+    this.load.image('candy', '../../images/candy.png');
+    this.load.image('rotate', '../../images/rotate.png');
+    this.load.image('toy', '../../images/rubber_duck.png');
+    this.load.image('arrow', '../../images/arrow.png');
+    this.load.spritesheet('pet', '../../images/pet.png', 97, 83, 5, 1, 1);
   },
 
   create: function() {
